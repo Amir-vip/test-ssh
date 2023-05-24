@@ -1,0 +1,299 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-weight: solid;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.mini1{
+    display: flex;
+    list-style: none;
+    padding: 1px;
+  color: rgba(0, 132, 255, 0.719);
+ 
+}
+.color{
+    color: rgba(0, 132, 255, 0.719);
+   
+}
+.box1 ul{ 
+padding: 10px;
+    display: flex;
+ gap: 20px;
+list-style: none;
+
+}
+.container2{
+    background-image: url(IMAGE.svg);
+    height: 80vh;
+}
+.mini2 {
+    line-height: 60vh;
+    text-align: center;
+    color: aliceblue;
+   font-size: 20px;
+  
+}
+
+
+.mini3{
+text-align: center;
+
+}
+.color2{
+    color:blue;
+}
+    
+.box2 h1{
+    line-height: 10vh;
+    text-align: center;
+    font-size: 20px;
+  
+
+}
+.box3 p{
+    text-align: center;
+    
+}
+.container4{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.card1{
+    text-align: center;
+    border: 1px solid lightgrey;
+    margin-top: 10px;
+    
+}
+.card1 img{
+    padding: 10px;
+    width: 80px;
+
+}
+.card1 h1{
+    color:black;
+    padding-bottom: 10px;
+    font-size: 20px;
+   
+}
+.card1 p{
+   
+    color: black;
+    opacity: 0.7;
+    padding:15px;
+font-size: 10px;
+}
+
+.hight{
+    background-color: rgb(4, 29, 21);
+}
+
+.hight h1{
+    font-size: 20px;
+    margin: 10px;
+    text-align: center;
+
+}
+.hight p{
+    margin: 10px;
+    text-align: center;
+
+}
+.hello{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(4, 29, 21);;
+}
+.hello img{
+    margin: 0;
+    display: flex;
+    background-color: rgb(4, 29, 21);
+ opacity: 07.;
+ width: 30%;
+}
+.container5
+{
+    
+    text-align: center;
+    background-color: rgb(4, 29, 21);
+    color: white;
+    
+}
+.bye1 h1{
+    margin: 10px auto 10px auto;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.bye2{
+    font-size: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.bye3 h1{
+    
+    margin: 10px auto 10px auto;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.bye4{
+    font-size: 10px;
+    display:flex;
+    justify-content: space-between;
+}
+.Amir{
+    font-size: 14px;
+    text-align: center;
+margin-bottom: 50px;
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(4, 29, 21);
+    color:white;
+}
+.button box{
+
+
+    display: flex;
+    margin: 20px auto 20px auto;
+   
+    
+}
+.button1{
+  
+   display: flex;
+   justify-content: space-around;
+   
+   opacity: 0.3;
+   }
+
+.a h1{
+    color: black;
+    opacity: 0.7;
+    margin: 40px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: solid;
+}
+.b h1{
+    
+    text-align: center;
+ font-weight: solid;
+ font-size: 17px;
+ color: black;
+ opacity: 0.5;
+    
+
+}
+.top{
+    margin:20px auto 20px auto;
+    display: flex;
+justify-content: center;
+gap: 20px; 
+    height: 16px;
+   color: black;
+    opacity: 0.7;
+}
+.top1{
+    display: flex;
+    
+}
+.top2{
+    display: flex;
+    
+}
+.top3{
+    display: flex;
+    
+}
+.blue{
+    color: rgba(0, 0, 255, 0.619);
+}
+
+.end img{
+
+    margin-left: 20px;
+}
+.p h1{
+    text-align: center;
+    color: black;
+    opacity: 0.5;
+}
+.p1{
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: black;
+    opacity: 0.7;
+}
+.p2{
+    text-align: center;
+    font-size: 13px;
+    color: black;
+    opacity: 0.7;
+    padding-bottom: 10px;
+}
+.p3{
+    text-align: center;
+    font-size: 13px;
+    color: black;
+    opacity: 0.7;
+    padding-bottom: 10px;  
+}
+.O{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    opacity:0.6 ;
+
+}
+.z{
+    display: flex;
+}
+.x{
+    display: flex;
+}
+.c{
+    display: flex;
+}
+.fire{
+    display: flex;
+    
+
+   
+}
+.v p{
+    display: flex;
+    margin-left: 110px;
+    margin-top: 30px;
+    font-size: 13px;
+    color: rgb(63, 91, 142);
+    opacity: 0.7;
+    line-height: 1.5;
+
+    
+   
+}
+
+.s p{
+    display: flex;
+    text-align: center;
+    margin-left:250px;
+    margin-top: 30px;
+    font-size: 13px;
+    color: rgb(63, 91, 142);
+    opacity: 0.7;
+    line-height: 1.5;
+    
+}
+
